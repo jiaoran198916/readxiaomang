@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: 阅读晓芒
+subtitle: '晓芒文章，一网打尽'
+description: '收录邓晓芒所有已发布文章'
 keywords:
-author: John Doe
+author: 晓芒
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: http://example.com
-permalink: :year/:month/:day/:title/
+permalink: :title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -97,9 +97,42 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: hexo-theme-yuzu
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+since_year: 2020
+
+# 自定义侧边栏
+menu:
+  Archives:
+    widget: Archives # 三种：Archives | Posts | Tags
+  Posts1:
+    name: Posts
+    widget: Posts
+  Posts2:
+    name: Posts2
+    widget: Posts
+  Tags:
+    widget: Tags
+
+# 右上角
+otherMenu2:
+  关于: /about
+
+# 备案
+beian:
+  enable: true
+  icp: 京ICP备2021005293号
+
+# toc
+toc: true
+
+visit_count:
+  type: busuanzi
+  # or
+  # type: visitor-counter
+  # url: //your.counter.site/count.php
