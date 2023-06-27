@@ -97,7 +97,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hexo-theme-yuzu
+theme: next
+# theme: hexo-theme-yuzu
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
@@ -128,11 +129,36 @@ beian:
   enable: false
   icp: 京ICP备2021005293号
 
-# toc
-toc: true
+# 是否开启toc
+# toc: true
+toc:
+  list_number: false  # 是否显示数字排序
 
 visit_count:
   type: busuanzi
   # or
   # type: visitor-counter
   # url: //your.counter.site/count.php
+
+# Round corner
+# Warning: This feature is NOT fully tested on various browsers.
+smooth_corner: true
+
+# Counting words
+word_count:
+  enable: true
+  mode: all # or en_only | zh_only
+  reading_time: true
+  reading_speed:
+    cn: 300
+    en: 160
+
+# menu
+archive_type: 'yearly'
+tag_type: 'monthly'
+show_count: true
+
+# A sentense to show
+signature: 有一种力量叫思想。
+
+excerpt_link: 更多
