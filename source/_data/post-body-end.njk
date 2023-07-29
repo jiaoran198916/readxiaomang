@@ -1,0 +1,26 @@
+{%- set ccIcon = '<i class="fab fa-fw fa-creative-commons"></i>' %}
+{%- set ccText = theme.creative_commons.license | upper %}
+{%- if page.editor %}
+<div class="post-custom-meta">
+<ul>
+  <li class="post-copyright-author">
+    {%- if page.editor %}
+      <strong>本文编辑 {{ __('symbol.colon') }} </strong>
+      {{- page.editor }}
+    {%- endif %}
+  </li>
+  <li class="post-copyright-author">
+    {%- if page.first_publish %}
+      <strong>原首发于 {{ __('symbol.colon') }} </strong>
+      {{- page.first_publish }}
+    {%- endif %}
+  </li>
+  <li class="post-copyright-author">
+    {%- if page.from_other %}
+      <strong>转载来自 {{ __('symbol.colon') }} </strong>
+      {{- page.from_other }}
+    {%- endif %}
+  </li>
+</ul>
+</div>
+{%- endif %}
