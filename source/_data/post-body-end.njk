@@ -5,19 +5,19 @@
 <ul>
   {%- if page.editor %}
   <li class="post-copyright-author">
-      <strong>本文编辑 {{ __('symbol.colon') }} </strong>
+      <strong>本文责编{{ __('symbol.colon') }} </strong>
       {{- page.editor }}
   </li>
   {%- endif %}
   {%- if page.first_publish %}
   <li class="post-copyright-author">
-      <strong>原首发于 {{ __('symbol.colon') }} </strong>
+      <strong>原首发于{{ __('symbol.colon') }} </strong>
       {{- page.first_publish }}
   </li>
   {%- endif %}
   {%- if page.from_other %}
   <li class="post-copyright-author">
-      <strong>转载来自 {{ __('symbol.colon') }} </strong>
+      <strong>转载来自{{ __('symbol.colon') }} </strong>
       {{- page.from_other }}
   </li>
   {%- endif %}
