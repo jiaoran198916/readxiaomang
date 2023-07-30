@@ -3,24 +3,24 @@
 {%- if page.editor %}
 <div class="post-custom-meta">
 <ul>
+  {%- if page.editor %}
   <li class="post-copyright-author">
-    {%- if page.editor %}
       <strong>本文编辑 {{ __('symbol.colon') }} </strong>
       {{- page.editor }}
-    {%- endif %}
   </li>
+  {%- endif %}
+  {%- if page.first_publish %}
   <li class="post-copyright-author">
-    {%- if page.first_publish %}
       <strong>原首发于 {{ __('symbol.colon') }} </strong>
       {{- page.first_publish }}
-    {%- endif %}
   </li>
+  {%- endif %}
+  {%- if page.from_other %}
   <li class="post-copyright-author">
-    {%- if page.from_other %}
       <strong>转载来自 {{ __('symbol.colon') }} </strong>
       {{- page.from_other }}
-    {%- endif %}
   </li>
+  {%- endif %}
 </ul>
 </div>
 {%- endif %}
