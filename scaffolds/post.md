@@ -13,3 +13,6 @@ excerpt:
 {% note success %}
 
 {% endnote %}
+{% note %}
+
+{% endnote %}
