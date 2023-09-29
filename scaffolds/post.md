@@ -11,7 +11,7 @@ from_other:
 excerpt:
 ---
 {% note success %}
-新保守主义与新批判主义
+合唱之魂——读胡发云《死于合唱》
 {% endnote %}
 {% note %}
 
