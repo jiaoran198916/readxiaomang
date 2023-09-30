@@ -11,7 +11,7 @@ from_other:
 excerpt:
 ---
 {% note success %}
-论“好像”在康德哲学中的用法
+康德《论俗语》从实践理性向历史理性的过渡
 {% endnote %}
 {% note %}
 
