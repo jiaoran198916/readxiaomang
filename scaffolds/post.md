@@ -11,7 +11,7 @@ from_other:
 excerpt:
 ---
 {% note success %}
-关于新实践美学原理的再思考——再答章辉先生
+“自否定”哲学原理
 {% endnote %}
 {% note %}
 
