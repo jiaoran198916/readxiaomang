@@ -11,7 +11,7 @@ from_other:
 excerpt:
 ---
 {% note success %}
-康德《论俗语》从实践理性向历史理性的过渡
+关于新实践美学原理的再思考——再答章辉先生
 {% endnote %}
 {% note %}
 
