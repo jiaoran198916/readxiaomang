@@ -11,7 +11,7 @@ from_other:
 excerpt:
 ---
 {% note success %}
-“自否定”哲学原理
+实践唯物论新解：开出现象学之维-共2版
 {% endnote %}
 {% note %}
 
