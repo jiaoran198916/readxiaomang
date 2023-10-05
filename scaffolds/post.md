@@ -11,7 +11,8 @@ from_other: 《实践唯物论新解：开出现象学之维》
 excerpt:
 ---
 {% note success %}
-费尔巴哈“人的本质”试析
+## 内容提要
+“三层楼说”的误区与艺术的定位
 {% endnote %}
 {% note %}
 
