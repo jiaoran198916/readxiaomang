@@ -7,12 +7,12 @@ auto_indent: true
 comments: true
 editor: 皎然
 first_publish:
-from_other: 《实践唯物论新解：开出现象学之维》
+from_other: 
 excerpt:
 ---
 {% note success %}
 ## 内容提要
-评美学上的“厌食症”——答杨春时先生
+黑格尔的家庭观和中国家庭观之比较———读《精神现象学》札记（之一）
 {% endnote %}
 {% note %}
 
