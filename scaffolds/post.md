@@ -7,12 +7,12 @@ auto_indent: true
 comments: true
 editor: .. & 皎然
 first_publish:
-from_other: 《在张力中思索》
+from_other:
 excerpt:
 ---
 {% note success %}
 ## 内容提要
-中西生死观比较
+康德宗教伦理对我们的启示
 {% endnote %}
 {% note %}
 
