@@ -12,8 +12,7 @@ excerpt:
 ---
 {% note success %}
 ## 内容提要
-论中西本体论的差异
-
+当代美学的出路
 {% endnote %}
 {% note %}
 
