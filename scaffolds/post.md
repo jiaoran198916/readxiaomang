@@ -7,12 +7,12 @@ auto_indent: true
 comments: true
 editor: 皎然
 first_publish:
-from_other: 《哲学与生命——邓晓芒讲演录》长春出版社2012年版
+from_other: 《西方哲学探赜——邓晓芒自选集》上海文艺出版社2014年版
 excerpt:
 ---
 {% note success %}
 ## 内容提要
-中国传统文化需要审视——访邓晓芒教授
+欧洲虚无主义及其克服——读海德格尔《尼采》札记
 {% endnote %}
 {% note %}
 
