@@ -12,7 +12,7 @@ excerpt:
 ---
 {% note success %}
 ## 内容提要
-《启蒙的进化》后记
+古希腊罗马哲学讲演录——共2版
 {% endnote %}
 {% note %}
 
