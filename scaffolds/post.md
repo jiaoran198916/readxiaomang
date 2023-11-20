@@ -7,13 +7,13 @@ auto_indent: true
 comments: true
 editor: 皎然
 first_publish:
-from_other:
+from_other: 《人之镜——中西文学形象的人格结构》作家出版社2016年版
 excerpt:
 ---
 {% note success %}
 ## 内容提要
-古希腊罗马哲学讲演录——共2版
+品格与性格：关云长与阿喀琉斯的比较
+
 {% endnote %}
 {% note %}
-
 {% endnote %}
