@@ -12,8 +12,7 @@ excerpt:
 ---
 {% note success %}
 ## 内容提要
-情与爱：贾宝玉与唐璜的比较
-
+《人之镜》二〇〇九年版附言
 {% endnote %}
 {% note %}
 {% endnote %}
