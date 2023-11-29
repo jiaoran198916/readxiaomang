@@ -11,5 +11,4 @@ from_other: 《徜徉在思想的密林里》重庆大学出版社2012年版
 excerpt:
 ---
 {% note %}
-{% endnote %}大学生学刊寄语
-邓晓芒书目大全
+{% endnote %}
