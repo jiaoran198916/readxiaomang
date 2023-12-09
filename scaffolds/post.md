@@ -6,10 +6,10 @@ tags: []
 auto_indent: true
 comments: true
 editor: 皎然
-first_publish: 《人论三题》重庆大学出版社2008年版
-from_other: 《人论三题》三联书店2019年版
+first_publish: 《新批判主义》作家出版社2019年版
+from_other: 《新批判主义》作家出版社2019年版
 excerpt:
 ---
 {% note %}
-童话里的思想
+《伤逝》中的文化冲突试析
 {% endnote %}
