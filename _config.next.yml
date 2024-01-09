@@ -536,7 +536,7 @@ pace:
 # Generate a ribbon in your website with HTML5 canvas.
 # For more information: https://github.com/hustcc/ribbon.js
 canvas_ribbon:
-  enable: true
+  enable: false
   size: 300 # The width of the ribbon
   alpha: 0.6 # The transparency of the ribbon
   zIndex: -1 # The display level of the ribbon
@@ -661,14 +661,3 @@ darkmode_js:
 css: css
 js: js
 images: images
-
-# 简洁的hexo-next日历云插件，在日历上显示提交标记
-# See: https://github.com/theme-next/theme-next-calendar
-CloudCalendar:
-  enable: false
-  language: zh-CN
-  single: true
-  root: /calendar/
-  calendarCdn: //cdn.jsdelivr.net/gh/theme-next/theme-next-calendar/calendar.min.js
-  langCdn: //cdn.jsdelivr.net/gh/theme-next/theme-next-calendar/languages.min.js
-  #disableSidebar: false
