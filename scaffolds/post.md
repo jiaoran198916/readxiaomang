@@ -1,5 +1,7 @@
 ---
 title: {{ title }}
+origin_title:
+another_title:
 date: {{ date }}
 categories: 随笔
 tags: []
@@ -11,7 +13,7 @@ from_other: 《儒家伦理新批判》重庆出版社2010年
 excerpt:
 ---
 {% note %}
-胡塞尔论语言的逻辑性在隐喻中的起源
+就“亲亲相隐”问题再答四儒生
 {% endnote %}
 【著作】儒家伦理新批判——增订本，文津出版社，2020
 【著作】儒家伦理新批判——增订本，文津出版社，2020
