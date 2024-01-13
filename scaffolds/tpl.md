@@ -18,9 +18,6 @@ another_title:
 
 {% endnote %}
 
-```
-
-```
 
 
 <span class="post-meta-item-icon">
