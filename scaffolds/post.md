@@ -7,7 +7,7 @@ auto_indent: true
 comments: true
 editor: 皎然
 first_publish: 《学海》2007年6期
-from_other: 《儒家伦理新批判》文津出版社2019年
+from_other: 《儒家伦理新批判》（增订本）文津出版社2019年
 excerpt:
 ---
 牟宗三对康德之误读举要（之四）——关于自我及“心”
