@@ -91,6 +91,7 @@ menu:
   categories: /categories/ || fa fa-th
   tags: /tags/ || fa fa-tags
   archives: /archives/ || fa fa-archive
+  reward: /赞助本站/ || fa fa-circle-dollar-to-slot
   about: /about/ || fa fa-user
   # schedule: /schedule/ || fa fa-calendar
   # sitemap: /sitemap.xml || fa fa-sitemap
