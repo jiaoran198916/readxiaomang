@@ -9,9 +9,13 @@ another_title:
 
 {% endnote %}
 ⋯⋯
-
+［］
 {% note success %}
 ## 摘要
+{% endnote %}
+
+{% note default %}
+
 {% endnote %}
 
 {% note primary %}
