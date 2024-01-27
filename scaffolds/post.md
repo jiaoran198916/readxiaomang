@@ -1,14 +1,13 @@
 ---
 title: {{ title }}
 date: {{ date }}
-categories: 论文
+categories: 讲演
 tags: []
 auto_indent: true
 comments: true
 editor: 皎然
-first_publish: 《学海》2007年6期
-from_other: 《哲学起步》商务印书馆
+first_publish: 《德国古典哲学讲演录》湖南教育出版社2010年
+from_other: 《德国古典哲学讲演录》湖南文艺出版社2017年
 excerpt:
 ---
-【著作】黑格尔辩证法讲演录—北京大学出版社，2005
-【著作】黑格尔辩证法讲演录2版—商务印书馆，2020
+康德的认识论：先验感性论（《德国古典哲学讲演录》）
