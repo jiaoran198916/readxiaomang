@@ -86,6 +86,7 @@ menu:
   categories: /categories/ || fa fa-th
   tags: /tags/ || fa fa-tags
   archives: /archives/ || fa fa-archive
+  feedback: https://www.wenjuan.com/s/UZBZJvSh2BH/ || fa fa-solid fa-comment-dots
   reward: /赞助本站/ || fa fa-circle-dollar-to-slot
   about: /about/ || fa fa-user
   # schedule: /schedule/ || fa fa-calendar
