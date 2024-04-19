@@ -1,7 +1,7 @@
 ---
 title: {{ title }}
 date: {{ date }}
-categories: 论文
+categories: 序跋
 tags: []
 auto_indent: true
 comments: true
