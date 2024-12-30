@@ -659,11 +659,3 @@ css: css
 js: js
 images: images
 
-CloudCalendar:
-  enable: true
-  language: zh-CN
-  single: true
-  root: /calendar/
-  calendarCdn: https://cdn.jsdelivr.net/gh/theme-next/theme-next-calendar/calendar.min.js
-  langCdn: https://cdn.jsdelivr.net/gh/theme-next/theme-next-calendar/languages.min.js
-  disableSidebar: false

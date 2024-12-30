@@ -1,7 +1,7 @@
 ---
 title: {{title}}
 date: {{date}}
-categories: 讲演录
+categories: 论文
 tags: []
 auto_indent: true
 comments: true
