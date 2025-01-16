@@ -4,9 +4,9 @@
 
 # Site
 title: 阅读晓芒
-subtitle: '灵魂的苦药'
-description: '收集整理邓晓芒老师所有已发表文章'
-keywords: 西方哲学，当代哲学，德国古典哲学，新批判主义，邓晓芒
+subtitle: 灵魂的苦药
+description: 收录邓晓芒所有发表文章
+keywords: 西方哲学，当代哲学，德国古典哲学，新批判主义，邓晓芒，康德，黑格尔，海德格尔
 author: 邓晓芒
 language: zh-CN
 timezone: ''
@@ -50,6 +50,7 @@ highlight:
   tab_replace: ''
   wrap: true
   hljs: false
+
 prismjs:
   enable: false
   preprocess: true
@@ -62,8 +63,18 @@ prismjs:
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
   path: ''
-  per_page: 10
+  per_page: 6
   order_by: -date
+
+# 归档页配置
+archive_generator:
+  per_page: 30
+  # yearly: false
+  monthly: true #未生效
+
+# 标签页配置
+tag_generator:
+  per_page: 30
 
 # Category & Tag
 default_category: uncategorized
