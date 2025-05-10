@@ -3,10 +3,10 @@ title: {{title}}
 date: {{date}}
 categories: 论文
 tags: []
-auto_indent: true
+auto_indent: false
 comments: true
 editor: 皎然
-first_publish: 《邓晓芒讲黑格尔》北京大学出版社2006年
-from_other: 《黑格尔哲学讲演录》商务印书馆2020年
+first_publish: 《新批判主义》湖北教育出版社2000年
+from_other: 《新批判主义》湖北教育出版社2000年
 excerpt:
 ---
